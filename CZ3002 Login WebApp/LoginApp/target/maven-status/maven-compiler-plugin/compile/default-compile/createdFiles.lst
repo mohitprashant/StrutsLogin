@@ -1,0 +1,2 @@
+org\apache\struts\loginapp\model\Entry.class
+org\apache\struts\loginapp\action\Verify.class
